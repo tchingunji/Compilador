@@ -1,0 +1,7 @@
+package java;
+
+public class Pessoa{
+	public void main(){
+		int a,
+	}
+}
