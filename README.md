@@ -27,7 +27,7 @@ O projeto tem como objetivo aplicar, de forma prática, os principais conceitos 
 - **Java (JDK 8 ou superior)**
 - IDE recomendada:
   - IntelliJ IDEA  
-  - Eclipse  
+  - Netbeans  
   - VS Code  
 
 ## 📁 Estrutura do Projeto
@@ -87,10 +87,10 @@ Não há geração de bytecode JVM
 
 👨‍🎓 Autor
 
-Projeto desenvolvido por Seu Nome
-Disciplina: Compiladores
-Curso: Seu Curso
-Instituição: Sua Universidade
+- ✅ Projeto desenvolvido por Tchingunji dos Santos Inácio
+- ✅ Disciplina: Compiladores
+- ✅ Curso: Engenharia Informática
+- ✅ Instituição: ISPTEC
 
 📄 Licença
 
